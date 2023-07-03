@@ -8,7 +8,7 @@ Then The user should be directed to "Graph" Page
 Scenario: The user is able to navigate to Graph page 
 Given The user is in the "Graph" page after logged in
 When The user clicks "Graph" sub link of Graph Page
-Then The user should be directed to "Graph" of Graph Page
+Then The user should be directed to "Graph" Page
 
 Scenario:  The user should be directed to editor page with run button to test python code
 Given The user is on the "Graph" sub link of Graph page
@@ -36,7 +36,7 @@ Then The user should be presented with the Run output with alert
 Scenario: The user is able to navigate to Graph page 
 Given The user is in the "Graph" page after logged in
 When The user clicks "Graph Representations" sub link of Graph Page
-Then The user should be directed to "Graph Representations" of Graph Page
+Then The user should be directed to "Graph Representations" Page
 
 Scenario:  User navigated to tryEditor page with Run button from Graph page
 Given The user is on the "Graph Representations" sub link of Graph page

@@ -11,6 +11,7 @@ import com.pageObjects.LoginPage_PO;
 import com.pageObjects.RegisterPage_PO;
 import com.qa.factory.DriverFactory;
 import com.qa.util.ExcelReader;
+import com.qa.util.Loggerload;
 
 import io.cucumber.java.en.*;
 
@@ -22,12 +23,14 @@ public class LoginPage_SD {
 	@Given("The user is in the Sign in page")
 	public void the_user_is_in_the_sign_in_page() {
 		DriverFactory.getDriver().get("https://dsportalapp.herokuapp.com/login");
+		Loggerload.info("Login Page - user is in the Sign in page");
 	}
 
 	@When("The user enters a valid {string} and {string}")
 	public void the_user_enters_a_valid_and(String username, String password) {
 	    rp.enterUserName(username);
 	    lp.enterPassword(password);
+	    Loggerload.info("Login Page - user enters a valid username and password");
 	}
 
 	@Then("click login button to verify and pagetitle is {string}")
@@ -35,28 +38,33 @@ public class LoginPage_SD {
 		lp.clickLoginBtn();
 		Assert.assertEquals(expectedTitle,DriverFactory.getdriverTitle());
 		lp.clickLogoutBtn();
+		Loggerload.info("Login Page - click login button and verify pagetitle");
 	}
 	
 	@When("The user clicks on register link on signin page")
 	public void the_user_clicks_on_register_link_on_signin_page() {
 	    lp.clickRegisterBtn();
+	    Loggerload.info("Login Page - user clicks on register link");
 	}
 
 	@Then("The user redirected to Registration page from signin page and title is {string}")
 	public void the_user_redirected_to_registration_page_from_signin_page_and_title_is(String expectedTitle) {
 		Assert.assertEquals(expectedTitle,DriverFactory.getdriverTitle());
+		Loggerload.info("Login Page - user redirected to Registration page from signin page and verify pagetitle");
 	}
 	
 	@When("The user enter invalid {string} and {string}")
 	public void the_user_enter_invalid_and(String username, String password) {
 		rp.enterUserName(username);
 		lp.enterPassword(password);
+		Loggerload.info("Login Page - user enter invalid username and password");
 	}
 
 	@Then("click login button to verify and pagetitle should be {string}")
 	public void click_login_button_to_verify_and_pagetitle_should_be(String expectedTitle) {
 		lp.clickLoginBtn();
 		Assert.assertEquals(expectedTitle,DriverFactory.getdriverTitle());
+		Loggerload.info("Login Page - click login button and verify pagetitle");
 	}
 	
 	@When("The user enter sheet {string} and {int}")
@@ -68,7 +76,7 @@ public class LoginPage_SD {
 	    String password = testData.get(RowNumber).get("Password");
 	    rp.enterUserName(username);
 		lp.enterPassword(password);	
-		
+		Loggerload.info("Login Page - Entering test data from excel");	
 	}
 
 	@Then("click login button to verify")
@@ -83,16 +91,19 @@ public class LoginPage_SD {
 		else if (actualTitle.equals("Login")) {
 			Assert.assertTrue(true);
 		}
+		Loggerload.info("Login Page - click login button and verify");
 	}
 	
 	@Given("The user is in the Home page with valid log in {string} and {string}")
 	public void the_user_is_in_the_home_page_with_valid_log_in_and(String username, String password) {
 		rp.enterUserName(username);
 		lp.enterPassword(password);
+		Loggerload.info("Login Page - user enters valid username and password");
 	}
 
 	@When("The user clicks Sign out")
 	public void the_user_clicks_sign_out() {
 		lp.clickLogoutBtn();
+		Loggerload.info("Login Page - user clicks sign out");
 	}
 }
