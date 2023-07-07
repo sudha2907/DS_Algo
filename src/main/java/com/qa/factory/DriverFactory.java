@@ -3,7 +3,9 @@ package com.qa.factory;
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 //import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -24,15 +26,23 @@ public class DriverFactory {
 			driver = new ChromeDriver();
 			//tlDriver.set(new ChromeDriver());
 		}
+		else if(browser.equalsIgnoreCase("safari")) {
+		
+		driver = new SafariDriver();
+		
+		//tlDriver.set(new FirefoxDriver());
+		}
 		 
-		/*else if(browser.equals("firefox")) {
+		else if(browser.equalsIgnoreCase("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
-			tlDriver.set(new FirefoxDriver());
+			driver = new FirefoxDriver();
+			//tlDriver.set(new FirefoxDriver());
 	}
+	
 		else {
 			System.out.println("Please pass the correct browser value:"+ browser);
 		}
-		*/
+		
 		
 		getDriver().manage().deleteAllCookies();
 		getDriver().manage().window().maximize();

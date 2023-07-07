@@ -623,3 +623,808 @@
 ['INFO ]2023-07-03 16:47:17,383(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks practice questions
 ['INFO ]2023-07-03 16:47:17,387(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
 ['INFO ]2023-07-03 16:47:17,930(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user clicks on signout button
+['INFO ]2023-07-04 22:15:12,843(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-User opens portal page
+['INFO ]2023-07-04 22:15:13,229(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks Get Started button
+['INFO ]2023-07-04 22:15:13,288(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should go to home page
+['INFO ]2023-07-04 22:15:13,302(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Checking Page Title
+['INFO ]2023-07-04 22:15:13,759(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:13,839(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:13,879(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:14,184(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:14,266(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:14,308(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:14,607(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:14,682(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:14,721(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:15,021(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:15,113(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:15,141(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:15,419(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:15,493(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:15,524(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:15,814(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:15,895(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:15,930(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:16,184(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:16,280(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:15:16,317(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:15:16,571(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:16,704(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:15:16,735(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:15:16,949(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:15:17,087(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:15:17,199(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:15:17,356(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:15:17,393(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Click register button
+['INFO ]2023-07-04 22:15:17,463(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Error message
+['INFO ]2023-07-04 22:15:17,640(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:15:17,646(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-
+['INFO ]2023-07-04 22:15:17,841(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user clicks Register button after entering username
+['INFO ]2023-07-04 22:15:17,876(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Error message
+['INFO ]2023-07-04 22:15:18,049(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:15:18,260(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user enters a username with characters other than Letters
+['INFO ]2023-07-04 22:15:18,528(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:15:18,743(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user clicks Register button after entering valid username and different passwords in password and password confirmation fields
+['INFO ]2023-07-04 22:15:18,981(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:15:19,199(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user enters a valid username and password and password confirmation
+['INFO ]2023-07-04 22:15:19,426(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:19,589(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:15:19,740(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:19,958(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user clicks on register link
+['INFO ]2023-07-04 22:15:19,966(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user redirected to Registration page from signin page and verify pagetitle
+['INFO ]2023-07-04 22:15:20,054(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:20,106(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:15:20,139(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:15:20,244(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:20,311(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:15:20,354(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:15:20,443(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:20,484(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:15:20,526(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:15:20,611(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:21,386(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:15:21,428(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:15:21,467(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:21,664(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:15:21,696(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:15:21,725(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:21,867(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:15:21,895(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:15:21,917(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:15:22,024(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:15:22,051(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:15:22,138(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters valid username and password
+['INFO ]2023-07-04 22:15:22,802(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:15:23,487(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:20:14,920(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-User opens portal page
+['INFO ]2023-07-04 22:20:15,313(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks Get Started button
+['INFO ]2023-07-04 22:20:15,849(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should go to home page
+['INFO ]2023-07-04 22:20:15,857(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Checking Page Title
+['INFO ]2023-07-04 22:20:16,059(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:16,209(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:16,440(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:16,522(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:16,661(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:16,892(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:16,962(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:17,090(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:17,342(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:17,405(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:17,524(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:17,739(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:17,781(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:17,906(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:18,122(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:18,182(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:18,291(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:18,513(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:18,553(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:18,676(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:20:18,890(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:20:18,939(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:19,051(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:20:19,206(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:20:19,237(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:20:19,358(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:20:19,507(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:20:19,701(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:20:19,944(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Click register button
+['INFO ]2023-07-04 22:20:19,995(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Error message
+['INFO ]2023-07-04 22:20:20,154(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:20:20,162(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-
+['INFO ]2023-07-04 22:20:20,416(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user clicks Register button after entering username
+['INFO ]2023-07-04 22:20:20,442(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Error message
+['INFO ]2023-07-04 22:20:20,589(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:20:20,797(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user enters a username with characters other than Letters
+['INFO ]2023-07-04 22:20:21,253(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:20:21,458(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user clicks Register button after entering valid username and different passwords in password and password confirmation fields
+['INFO ]2023-07-04 22:20:21,474(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Error message
+['INFO ]2023-07-04 22:20:21,616(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - Launches register page
+['INFO ]2023-07-04 22:20:21,825(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Register Page - user enters a valid username and password and password confirmation
+['INFO ]2023-07-04 22:20:22,248(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:22,300(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:20:22,810(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:20:22,973(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:23,128(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user clicks on register link
+['INFO ]2023-07-04 22:20:23,133(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user redirected to Registration page from signin page and verify pagetitle
+['INFO ]2023-07-04 22:20:23,272(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:23,329(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:20:23,556(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:20:23,739(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:23,792(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:20:24,029(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:20:24,177(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:24,222(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enter invalid username and password
+['INFO ]2023-07-04 22:20:24,457(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:20:24,599(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:25,469(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:20:25,797(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:20:25,965(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:26,130(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:20:26,349(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:20:26,479(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:26,569(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:20:26,772(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:20:26,915(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:27,016(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - Entering test data from excel
+['INFO ]2023-07-04 22:20:27,221(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify
+['INFO ]2023-07-04 22:20:27,282(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters valid username and password
+['INFO ]2023-07-04 22:20:27,470(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user clicks sign out
+['INFO ]2023-07-04 22:20:28,045(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:20:28,211(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - user clicks get started button
+['INFO ]2023-07-04 22:20:28,401(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - clicks on sub module
+['INFO ]2023-07-04 22:20:29,189(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-tryhere button
+['INFO ]2023-07-04 22:20:29,190(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - clicks on tryhere button
+['INFO ]2023-07-04 22:20:29,512(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:29,536(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - sends valid code and click run button
+['INFO ]2023-07-04 22:20:30,970(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - navigates to refresh
+['INFO ]2023-07-04 22:20:31,159(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:31,190(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - sends invalid code, clicks run button and clicks alert
+['INFO ]2023-07-04 22:20:31,262(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - navigates back
+['INFO ]2023-07-04 22:20:31,409(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - clicks on practice questions
+['INFO ]2023-07-04 22:20:31,484(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-DataStructures Page - navigates back
+['INFO ]2023-07-04 22:20:32,061(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:20:32,477(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on the dropdown in array module
+['INFO ]2023-07-04 22:20:33,103(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-tryhere button
+['INFO ]2023-07-04 22:20:33,103(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on array in python submodule and tryhere button
+['INFO ]2023-07-04 22:20:33,227(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:33,477(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:34,413(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:34,414(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:34,451(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:34,512(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:34,600(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:34,601(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:34,715(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:35,200(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-tryhere button
+['INFO ]2023-07-04 22:20:35,200(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on array using list submodule and tryhere button
+['INFO ]2023-07-04 22:20:35,286(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:35,543(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:36,837(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:36,909(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:36,993(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:37,080(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:37,080(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:37,180(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:37,704(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-tryhere button
+['INFO ]2023-07-04 22:20:37,704(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on Basic operations in list and clicks tryhere button
+['INFO ]2023-07-04 22:20:37,781(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:38,035(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:39,775(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:39,814(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:39,910(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:39,998(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:39,998(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:40,093(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:40,596(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-tryhere button
+['INFO ]2023-07-04 22:20:40,597(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on Application of array and clicks tryhere button
+['INFO ]2023-07-04 22:20:40,697(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:40,962(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:42,595(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:42,636(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:42,689(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:42,773(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:42,774(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:42,893(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:43,058(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on Practice Question
+['INFO ]2023-07-04 22:20:43,438(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:43,438(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on search the array and clear the try editor
+['INFO ]2023-07-04 22:20:43,632(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:47,286(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks submit button and checks output
+['INFO ]2023-07-04 22:20:47,348(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:47,402(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:47,495(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:47,495(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:47,621(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:49,031(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:49,031(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on max consecutive ones and clear the try editor
+['INFO ]2023-07-04 22:20:49,098(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:49,349(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:50,536(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:50,588(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:50,676(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:50,765(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:50,765(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:50,852(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:52,222(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:52,222(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on Find numbers with even number of digits and clear the try editor
+['INFO ]2023-07-04 22:20:52,292(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:52,542(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:53,713(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:53,788(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:53,873(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:53,973(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:53,974(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:54,101(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:55,542(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:55,543(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks on the squares of sorted array and clear the try editor
+['INFO ]2023-07-04 22:20:55,599(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends valid python code from excel sheet
+['INFO ]2023-07-04 22:20:55,855(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:57,323(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button and checks output
+['INFO ]2023-07-04 22:20:57,372(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-clearing the tryEditor for Array practice questions
+['INFO ]2023-07-04 22:20:57,423(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user sends invalid python code from excel sheet
+['INFO ]2023-07-04 22:20:57,523(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-run button
+['INFO ]2023-07-04 22:20:57,523(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user clicks run button
+['INFO ]2023-07-04 22:20:57,611(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Array Page - user checks alert message and navigates back
+['INFO ]2023-07-04 22:20:57,805(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:20:57,849(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:20:58,378(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:20:58,870(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:20:59,263(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user selects item from dropdown
+['INFO ]2023-07-04 22:20:59,269(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:20:59,630(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:20:59,833(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:20:59,838(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:20:59,986(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:00,384(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:00,409(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:00,699(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:00,782(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:01,051(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:01,068(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:01,400(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:01,456(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:01,564(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:01,663(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:02,073(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:02,267(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:02,271(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:02,285(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:02,598(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:02,621(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:02,896(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:02,997(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:03,250(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:03,274(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:03,578(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:03,653(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:03,732(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:03,823(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:04,219(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:04,439(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:04,445(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:04,466(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:04,803(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:04,821(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:05,086(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:05,151(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:05,402(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:05,411(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:05,682(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:05,733(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:05,806(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:05,910(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:06,340(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:06,527(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:06,532(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:06,685(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:06,979(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:06,999(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:07,310(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:07,408(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:07,657(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:07,736(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:08,023(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:08,091(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:08,171(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:08,251(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:08,653(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:08,838(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:08,853(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:09,020(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:09,304(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:09,327(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:09,598(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:09,672(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:09,927(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:09,941(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:10,215(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:10,293(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:10,427(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:10,550(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:11,012(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:11,195(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:11,198(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:11,356(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:11,648(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:11,669(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:11,936(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:12,068(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:12,323(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:12,396(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:12,696(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:12,756(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:12,833(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:12,950(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:13,366(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:13,543(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:13,547(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:13,710(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is on the submodule page of Linked List page
+['INFO ]2023-07-04 22:21:14,004(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:14,021(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:14,280(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:14,343(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:14,594(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:14,602(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:14,869(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:14,905(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:14,978(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:15,112(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:15,520(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:15,703(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks submodule of Linked List page
+['INFO ]2023-07-04 22:21:15,836(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks practice questions
+['INFO ]2023-07-04 22:21:15,841(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:16,025(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:21:16,056(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:21:16,553(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:21:17,098(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:21:17,481(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user selects item from dropdown
+['INFO ]2023-07-04 22:21:17,485(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:17,842(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:18,020(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user clicks submodule of stack page
+['INFO ]2023-07-04 22:21:18,027(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:18,188(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user is on the submodule of stack page
+['INFO ]2023-07-04 22:21:18,528(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:18,551(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:18,821(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:18,907(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:19,156(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:19,165(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:19,420(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:19,464(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:19,539(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:19,624(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:20,003(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:20,173(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user clicks submodule of stack page
+['INFO ]2023-07-04 22:21:20,178(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:20,322(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user is on the submodule of stack page
+['INFO ]2023-07-04 22:21:20,602(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:20,619(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:20,872(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:20,933(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:21,187(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:21,230(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:21,524(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:21,587(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:21,670(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:21,783(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:22,184(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:22,361(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user clicks submodule of stack page
+['INFO ]2023-07-04 22:21:22,364(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:22,502(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user is on the submodule of stack page
+['INFO ]2023-07-04 22:21:22,789(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:22,809(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:23,073(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:23,135(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:23,382(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:23,401(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:23,677(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:23,759(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:23,843(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:23,954(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:24,319(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:24,470(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user clicks submodule of stack page
+['INFO ]2023-07-04 22:21:24,649(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Stack page - user clicks submodule of stack page
+['INFO ]2023-07-04 22:21:24,654(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:24,828(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:21:24,869(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:21:25,350(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:21:25,908(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:21:26,319(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user selects item from dropdown
+['INFO ]2023-07-04 22:21:26,331(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:26,693(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:26,868(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:26,871(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:27,005(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:27,329(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:27,349(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:27,628(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:27,691(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:27,939(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:27,949(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:28,228(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:28,269(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:28,341(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:28,447(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:28,808(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:28,977(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:28,980(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:29,126(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:29,406(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:29,424(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:29,700(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:29,800(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:30,055(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:30,086(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:30,369(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:30,444(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:30,536(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:30,632(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:31,002(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:31,177(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:31,182(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:31,320(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:31,614(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:31,632(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:31,894(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:31,948(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:32,198(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:32,210(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:32,503(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:32,548(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:32,626(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:32,725(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:33,094(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:33,262(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:33,270(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:33,413(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:33,711(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:33,728(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:33,993(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:34,049(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:34,300(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:34,335(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:34,650(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:34,733(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:34,812(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:34,893(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:35,260(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:35,401(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Queue page - user clicks on submodule of queue page
+['INFO ]2023-07-04 22:21:35,535(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks practice questions
+['INFO ]2023-07-04 22:21:35,539(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:35,703(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user is in the Sign in page
+['INFO ]2023-07-04 22:21:35,739(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - user enters a valid username and password
+['INFO ]2023-07-04 22:21:36,248(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Login Page - click login button and verify pagetitle
+['INFO ]2023-07-04 22:21:36,742(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:21:37,152(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user selects item from dropdown
+['INFO ]2023-07-04 22:21:37,155(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:37,532(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:37,728(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:37,731(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:37,883(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:38,178(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:38,194(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:38,450(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:38,529(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:38,776(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:38,807(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:39,090(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:39,151(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:39,238(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:39,341(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:39,756(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:39,929(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:39,939(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:40,105(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:40,405(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:40,424(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:40,691(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:40,766(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:41,012(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:41,019(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:41,299(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:41,354(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:41,436(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:41,532(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:41,923(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:42,122(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:42,128(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:42,136(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:42,434(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:42,453(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:42,718(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:42,788(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:43,039(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:43,084(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:43,368(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:43,412(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:43,486(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:43,580(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:43,974(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:44,155(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:44,161(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:44,172(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:44,469(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:44,490(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:44,754(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:44,848(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:45,113(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:45,123(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:45,427(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:45,470(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:45,553(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:45,641(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:46,032(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:46,211(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:46,213(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:46,232(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:46,566(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:46,591(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:46,877(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:46,935(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:47,186(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:47,231(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:47,516(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:47,613(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:47,702(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:47,803(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:48,196(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:48,378(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:48,380(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:48,388(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:48,696(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:48,714(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:48,973(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:49,043(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:49,295(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:49,306(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:49,597(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:49,688(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:49,787(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:49,904(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:50,370(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:50,621(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:50,627(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:50,640(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:50,931(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:50,949(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:51,207(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:51,267(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:51,515(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:51,544(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:51,848(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:51,899(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:51,968(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:52,069(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:52,477(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:52,653(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:52,657(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:52,802(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:53,087(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:53,107(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:53,369(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:53,429(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:53,678(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:53,692(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:53,978(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:54,022(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:54,105(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:54,191(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:54,605(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:54,829(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:54,838(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:54,986(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:55,281(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:55,299(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:55,564(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:55,637(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:55,884(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:55,913(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:56,220(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:56,279(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:56,368(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:56,471(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:56,846(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:57,026(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:57,031(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:57,171(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:57,469(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:57,487(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:57,753(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:57,810(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:21:58,059(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:58,068(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:21:58,340(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:58,375(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:21:58,455(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:21:58,530(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:21:58,936(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:21:59,116(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:21:59,120(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:21:59,128(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:21:59,407(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:21:59,444(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:21:59,720(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:21:59,788(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:22:00,037(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:00,047(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:22:00,313(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:00,377(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:22:00,455(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:00,541(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:22:00,944(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:01,326(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:22:01,332(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:01,478(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:22:01,786(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:22:01,809(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:22:02,119(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:02,186(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:22:02,433(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:02,442(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:22:02,731(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:02,767(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:22:02,854(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:02,965(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:22:03,404(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:03,578(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:22:03,582(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:03,737(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user clicks on submodule of tree page
+['INFO ]2023-07-04 22:22:04,033(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:22:04,049(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:22:04,322(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:04,402(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:22:04,651(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:04,679(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:22:04,957(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:05,015(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:22:05,092(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:05,196(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:22:05,586(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:05,759(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:22:05,907(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - User is in the submodule page of tree module
+['INFO ]2023-07-04 22:22:05,911(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Tree page - user should be directed to submodule of tree page
+['INFO ]2023-07-04 22:22:06,437(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user is in the Home page after logged in
+['INFO ]2023-07-04 22:22:06,805(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user selects item from dropdown
+['INFO ]2023-07-04 22:22:06,811(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:07,185(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:07,378(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user clicks on submodule of graph page
+['INFO ]2023-07-04 22:22:07,381(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:07,571(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user is in the submodule page of graph module
+['INFO ]2023-07-04 22:22:07,879(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:22:07,894(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:22:08,160(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:08,216(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:22:08,468(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:08,477(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:22:08,745(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:08,783(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:22:08,860(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:08,969(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:22:09,362(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:09,623(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user clicks on submodule of graph page
+['INFO ]2023-07-04 22:22:09,628(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:09,799(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user is in the submodule page of graph module
+['INFO ]2023-07-04 22:22:10,111(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks try here button
+['INFO ]2023-07-04 22:22:10,128(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user directed to tryEditor page with run button
+['INFO ]2023-07-04 22:22:10,390(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:10,456(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter valid python code from excel sheet
+['INFO ]2023-07-04 22:22:10,703(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:10,711(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see valid output
+['INFO ]2023-07-04 22:22:10,990(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in tryEditor page wiht run button
+['INFO ]2023-07-04 22:22:11,043(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user enter invalid python code from excel sheet
+['INFO ]2023-07-04 22:22:11,119(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks run button
+['INFO ]2023-07-04 22:22:11,218(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should see alert
+['INFO ]2023-07-04 22:22:11,596(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user is in the module page after logged in
+['INFO ]2023-07-04 22:22:11,737(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user clicks on submodule of graph page
+['INFO ]2023-07-04 22:22:11,889(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user clicks practice questions
+['INFO ]2023-07-04 22:22:11,894(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-user should be directed to other page
+['INFO ]2023-07-04 22:22:12,124(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Graph page - user clicks on signout button
+['INFO ]2023-07-04 22:44:24,429(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:25,301(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:25,575(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:25,654(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:25,769(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:25,983(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:26,049(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:26,162(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:26,364(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:26,407(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:26,520(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:26,727(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:26,784(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:26,895(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:27,098(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:27,149(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:27,265(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:27,462(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:27,502(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:27,602(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:44:27,803(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:44:27,829(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:27,958(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:44:28,116(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:44:28,135(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:44:28,248(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:44:28,387(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:45:19,471(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:20,506(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:20,787(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:20,877(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:20,993(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:21,222(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:21,283(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:21,471(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:21,679(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:21,732(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:21,846(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:22,061(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:22,124(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:22,238(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:22,451(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:22,506(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:22,625(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:22,838(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:22,881(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:22,989(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:45:23,214(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:45:23,249(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:23,352(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:45:23,513(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:45:23,535(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:45:23,649(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:45:23,804(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:46:14,285(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:14,872(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:15,619(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:15,720(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:15,834(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:16,051(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:16,113(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:16,221(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:16,428(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:16,477(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:16,588(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:16,800(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:16,860(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:16,979(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:17,181(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:17,233(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:17,347(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:17,544(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:17,593(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:17,696(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:17,903(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:17,932(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:18,036(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:46:18,188(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:46:18,204(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:18,315(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:46:18,472(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:46:50,839(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:51,888(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:52,276(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:52,370(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:52,501(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:52,736(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:52,805(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:52,929(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:53,133(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:53,182(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:53,293(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:53,503(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:53,558(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:53,670(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:53,872(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:53,907(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:54,024(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:54,228(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:54,273(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:54,374(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Click Get Started link
+['INFO ]2023-07-04 22:46:54,575(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - warning message
+['INFO ]2023-07-04 22:46:54,600(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:54,705(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - Sign In
+['INFO ]2023-07-04 22:46:54,861(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
+['INFO ]2023-07-04 22:46:54,885(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-The user opens Home Page
+['INFO ]2023-07-04 22:46:54,998(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User clicks Register
+['INFO ]2023-07-04 22:46:55,145(YYYY-MM-ddHH:MM:ss.SSS][main]com.qa.util.Loggerload1)-Home Page - User should be directed
